@@ -1,0 +1,14 @@
+Geral = 52, 52, 1163, 694, Z
+frmAcompanharOS = 0, 0, 0, 0, C, 78, 78, 1189, 720, C
+frmAlterarSenha = 0, 0, 0, 0, C, 104, 104, 1215, 746, C
+frmChamados = 0, 0, 0, 0, C, 130, 130, 1241, 772, C
+frmFinalizarOS = 0, 0, 0, 0, C, 156, 156, 1267, 798, C
+frmLogin = 0, 0, 0, 0, C, 182, 182, 1293, 824, C
+frmMensagem = 0, 0, 0, 0, C, 208, 208, 1319, 850, C
+frmPrincipal = 0, 0, 0, 0, C, 234, 234, 1345, 876, C
+frmRelatorio = 0, 0, 0, 0, C, 260, 260, 1371, 902, C
+frmSuporteSistemas = 0, 0, 0, 0, C, 286, 286, 1397, 928, C
+frmSuporteSistemasV = 0, 0, 0, 0, C, 312, 312, 1423, 954, C
+frmUsuarios = 0, 0, 0, 0, C, 0, 0, 1111, 642, C
+frmVisualizarAT = 0, 0, 0, 0, C, 26, 26, 1137, 668, C
+Icone = 0, 0, 0, 0, C, 52, 52, 1271, 694, C
